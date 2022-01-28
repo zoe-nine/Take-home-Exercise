@@ -95,11 +95,11 @@ To plot a Pareto chart:
 4. Use the **geom_line()** function to connect the points and to specify what data type to group to (by default, group = 1)  
 5. Use a few functions to edit the scale and finish the touch-up: 
 
-**scale_x_discrete**: use 'limits' argument to pass a character vector to defines values of the scale and their order  
-**scale_y_continuous**: use 'breaks' and 'limits' arguments to pass vectors specifying the position and limits of scale  
-**annotate**: add text labels for the axis  
-**labs**: add in title and name the axis   
-**theme**: change the background color to white for clear visualization   
+**scale_x_discrete()**: use 'limits' argument to pass a character vector to defines values of the scale and their order  
+**scale_y_continuous()**: use 'breaks' and 'limits' arguments to pass vectors specifying the position and limits of scale  
+**annotate()**: add text labels for the axis  
+**labs()**: add in title and name the axis   
+**theme()**: change the background color to white for clear visualization   
 
 
 ```{r fig.width=16, fig.height=7}
