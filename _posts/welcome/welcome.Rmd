@@ -1,7 +1,7 @@
 ---
 title: "Take-home Exercise"
 description: |
-  A place where I store all take-home exercises.
+  Welcome to my practice blog for ISSS608 Visual Analytics Applications, a course module offered in SMU.
 author:
   - name: Zhang Yi 
     url: https://example.com/norajones
